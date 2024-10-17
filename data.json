@@ -1,0 +1,127 @@
+{
+    "products": [
+        {
+            "name": "goBilda-straffer",
+            "description": "The goBilda strafer chassis allows you to get used to learning how to build and code a driving robot",
+            "url": "https://www.gobilda.com/strafer-chassis-kit-104mm-gripforce-mecanum-wheels/",
+            "image": "./images/goBildaStrafer.jpg",
+            "imageAlt": "goBilda Strafer chassis"
+        },
+        {
+            "name": "goBilda-Beeline",
+            "description": "The BeeLine chassis give you the opertunity to experiment with different types of wheels and more of them",
+            "url": "https://www.gobilda.com/beeline-chassis-kit-v2/",
+            "image": "./images/beelineChassis.jpg",
+            "imageAlt": "BeeLine Chassis"
+        },
+        {
+            "name": "Rev-Mecanum",
+            "description": "This Drivetrain comes with motors and wheels for your standard robot build great for experiemnting with movement",
+            "url": "https://www.revrobotics.com/rev-45-2470/",
+            "image": "./images/revMecanumDrivetrain.webp",
+            "imageAlt": "Rev mecanum Drivetrain"
+        },
+        {
+            "name": "Rev-edu-ki",
+            "description": "The Rev EDU kit comes with all the necessary components to get started wotking with robots including the necessary electronics",
+            "url": "https://www.revrobotics.com/rev-45-2041/",
+            "image": "./images/RevEduKit.webp",
+            "imageAlt": "Rev Edu Kit"
+        },
+        {
+            "name": "Rev-electronics",
+            "description": "The Rev Control bundle give you all the necessary components to get the robot running once you have it built",
+            "url": "https://www.revrobotics.com/rev-35-2709/",
+            "image": "./images/RevElectronicsBundle.webp",
+            "imageAlt": "Rev Electronics bundle"
+        },
+        {
+            "name": "goBilda-Starter",
+            "description": "This starter bot is a temporarily available bot that gives you everything necessary to build and get your robot moving",
+            "url": "https://www.gobilda.com/ftc-starter-bot-resource-guide-into-the-deep/",
+            "image": "./images/StarterBot.jpg",
+            "imageAlt": "goBilda Starter Bot"
+        }
+    ],
+
+    "deltasRobots":[
+        {
+            "name": "crabDrive",
+            "description": "This robot uses the same motors to drive the wheels and rotate the pods the wheels are sitting in",
+            "url": "https://youtu.be/WnbIrzrzo94?si=TpVVY88FqF2-OsQD",
+            "image": "./images/deltaCrabDrive.png",
+            "imageAlt": "crab drive robot"
+        },
+        {
+            "name": "ultimateGoalRobot",
+            "description": "This robot was used by Delta Robotics in the 2022-23 First robotics challenge Power Play and was able to pick up and place cups onto tall pillers",
+            "url": "https://youtu.be/BOB9cPXci2U?si=OlFvGH4tnUW_6oAB",
+            "image": "./images/deltaPowerPlay.png",
+            "imageAlt": "ultimate goal robot"
+        },
+        {
+            "name": "ringShooterRobot",
+            "description": "This robot was used by Delta Robotics in the 2020-21 First robotics season Ultimate Goal and was able to launch foam rings across the field",
+            "url": "https://youtu.be/L_CWceUFcNw?si=M7h6hVETNiJrfpSm",
+            "image": "./images/deltaShooterBot.png",
+            "imageAlt": "ring shooter robot"
+        }
+    ],
+
+    "otherRobots":[
+        {
+            "name": "9974Robot",
+            "description": "This robot was built by team 9974 Thor and was used in the 2023-24 First robots season Center Stage the link below is a video of this robot in action",
+            "url": "https://youtu.be/0rQdrvCm_pA?si=U9ZYHzOWUaBoIkdR",
+            "image": "./images/thorCenterStage.png",
+            "imageAlt": "thor 9974 Center Stage robot"
+        },
+        {
+            "name": "20077Robot",
+            "description": "This robot was built by Team 20077 the Indubitables for a challenge called robot in 3 days where they built their robot in only 3 days after the game is revealed",
+            "url": "https://youtu.be/_UBPHONrCUU?si=uErwozqq9a2BlWjT",
+            "image": "./images/indubitablesIntoTheDeep.png",
+            "imageAlt": "Team 20077 Indubitables Into The Deep robot"
+        },
+        {
+            "name": "18466Robot",
+            "description": "This robot was built by team 18466 mastermindz for the 2022-23 First robotics season Freight Frenzy the included video offers an in depth analysis of their robot that year",
+            "url": "https://youtu.be/QboeGu6KY3o?si=MrENwC0WmPSmrJO7",
+            "image": "./images/mastermindzFreightfrenzy.png",
+            "imageAlt": "Team 18466 mastermindz freight frenzy robot"
+        }
+    ],
+
+    "ideas":[
+        {
+            "title": "Arm",
+            "mainText": "One popular idea is to build a simple arm for a robot you can accomplish this by using a motot as the joint of the arm",
+            "subText": "This idea can start simply but there is no end to the complexity that you can implement with an arm design"
+        },
+        {
+            "title": "Grabber",
+            "mainText": "A claw is another commonly seen design that offers many practicle uses across many projects",
+            "subText": "Often used to pick things up grabbers can vary widely based on the object you are trying to pick-up"
+        },
+        {
+            "title": "Drive train",
+            "mainText": "A drive train is the technical term for the base of a robot that contains the wheels and the neccesary electronics and motors to move",
+            "subText": "Drive trains can vary widely when you start to intoduce different terrain onto the field try building a drive train that can account for that"
+        },
+        {
+            "title": "Slides",
+            "mainText": "A slightly more complex task slides allow you to reach great distances or raise something up into the air",
+            "subText": "Many companies offer slide kits so it definatly a good start but experimenting with different ways to raise the slides can be a good challenge"
+        },
+        {
+            "title": "Launcher",
+            "mainText": "A launcher can be one of the most fun projects to get working and play with once you have it working.",
+            "subText": "Launchers can use many different designs like a fly wheel or a flicker experiment with these ideas for whatever you decide to launch"
+        },
+        {
+            "title": "Active intake",
+            "mainText": "An active intake is a way to pull different objects in using things like fins or wheels",
+            "subText": "An active intake can be used to pull in a variety of objects experiment with different objects and different designs"
+        }
+    ]
+}
