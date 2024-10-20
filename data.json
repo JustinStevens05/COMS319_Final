@@ -123,5 +123,20 @@
             "mainText": "An active intake is a way to pull different objects in using things like fins or wheels",
             "subText": "An active intake can be used to pull in a variety of objects experiment with different objects and different designs"
         }
+    ],
+    "people":[
+        {
+            "name": "Sam Gorun",
+            "email": "samgorun@iastate.edu",
+            "profession": "Software Engineer",
+            "github": "https://github.com/NeoIsBetter"
+        },
+        {
+            "name": "Justin Stevens",
+            "email": "js2024@iastate.edu",
+            "profession": "Software Engineer",
+            "github": "https://github.com/JustinStevens05" 
+        }
     ]
+
 }
